@@ -1,4 +1,6 @@
 # KPMG-Data-Analytics-Virtual-Internship
+![03a0554ae1_50175403_data-analyst-data-scientist-formation-metier](https://github.com/YAMUNAVV/KPMG-Data-Analytics-Virtual-Internship/assets/124666569/a8e13838-71fa-4849-97fa-b41578fa20af)
+
 Project Description
 
 The Data Analytics Virtual Internship provides an opportunity to gain practical insight into the field of data analytics and its application at a leading company. This internship allows participants to develop career skills and valuable experience.
